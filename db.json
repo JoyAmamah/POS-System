@@ -1,0 +1,84 @@
+{
+    "users": [
+      {
+        "id": "1",
+        "name": "Lisa Graham",
+        "username": "Lisa",
+        "email": "lisa@gmail.com",
+        "phone": "090887776623",
+        "website": "lisa.org"
+      },
+      {
+        "id": "2",
+        "name": "favour Graham",
+        "username": "Fav",
+        "email": "fav@gmail.com",
+        "phone": "0908453456623",
+        "website": "fav.org"
+      },
+      {
+        "id": "3",
+        "name": "Gabriel solomon",
+        "username": "Gab",
+        "email": "gab@gmail.com",
+        "phone": "090887776623",
+        "website": "gab.org"
+      },
+      {
+        "id": "4",
+        "name": "buddy flourish",
+        "username": "solo",
+        "email": "solo@gmail.com",
+        "phone": "090887776623",
+        "website": "solo.org"
+      },
+      {
+        "id": "5",
+        "name": "John Doe",
+        "username": "johndoe",
+        "email": "johndoe@example.com",
+        "website": "johndoe.com",
+        "phone": "123-456-7890"
+      },
+      {
+        "id": "6",
+        "name": "Jane Smith",
+        "username": "janesmith",
+        "email": "janesmith@example.com",
+        "website": "janesmith.com",
+        "phone": "987-654-3210"
+      },
+      {
+        "id": "7",
+        "name": "Michael Johnson",
+        "username": "michaelj",
+        "email": "michaelj@example.com",
+        "website": "michaeljohnson.com",
+        "phone": "456-789-012322"
+      },
+      {
+        "id": "8",
+        "name": "Emily Davis",
+        "username": "emilydvs",
+        "email": "emilyd@example.com",
+        "website": "emilydavis.com",
+        "phone": "654-321-098117"
+      },
+      {
+        "id": "6f8e",
+        "name": "Davis",
+        "username": "wesly",
+        "website": "weslydavis.com",
+        "phone": "1223344455",
+        "email": "wesly@gmail.com"
+      },
+      {
+        "id": "cc8d",
+        "name": "Cynthia Metelewawon",
+        "username": "cynmete",
+        "website": "riches.software.com",
+        "phone": "08165109855",
+        "email": "hello@gmail.com"
+      }
+    ]
+  }
